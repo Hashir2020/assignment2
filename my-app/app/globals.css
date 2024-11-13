@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+#line{
+  border-top: 3px solid rgba(231, 64, 64, 1);
+  
+}
+#div1{
+  background-color: rgba(255, 220, 209, 1);
+}
+#div2{ 
+  background-color:rgba(185, 234, 168, 1);
+  ;
+}
+#div3{
+    background-color: white;
+}
+#linee{
+  border-top: 3px solid white
+}
